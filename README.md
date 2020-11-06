@@ -8,8 +8,8 @@
 | :---: | :---:
 | ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
 
-![stats][]
-Stats by [tipsy/profile-summary-for-github][]
+  [![My github stats](https://github-readme-stats.vercel.app/api?username=Alexoid1&show_icons=true&line_height=17&show_icons=true&theme=vue)](https://github.com/Alexoid1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexoid1&show_icons=true&layout=compact&theme=vue)](https://github.com/Alexoid1/github-readme-stats)
 
 
 

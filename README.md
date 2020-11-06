@@ -5,9 +5,9 @@
 # Hi, I am *willing to collaborate as a team player building better code.*
 
 | My favorite tools |![email-icon][] Email me to [alexzambra2610@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
-| :---: | :---:
+
 | ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | 
-|<p align="center">
+<p align="center">
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
@@ -28,7 +28,7 @@
     <img title="Webpack" alt="Webpack" height=40 src="https://camo.githubusercontent.com/15983246cafebf65f7139e5b021da9cc4d9f50c1/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f7765627061636b2f7765627061636b2d6f726967696e616c2e737667">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
-</p>|
+</p>
 
   [![My github stats](https://github-readme-stats.vercel.app/api?username=Alexoid1&show_icons=true&line_height=17&show_icons=true&theme=vue)](https://github.com/Alexoid1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexoid1&show_icons=true&layout=compact&theme=vue)](https://github.com/Alexoid1/github-readme-stats)

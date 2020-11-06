@@ -17,6 +17,7 @@
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
     <img title="Node" height=40 src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs">
+    <img title="D3" height=40 src"https://raw.githubusercontent.com/d3/d3-logo/master/d3.png">
     <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="SQL" alt="SQL" height=40

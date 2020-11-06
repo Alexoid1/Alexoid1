@@ -5,8 +5,8 @@
 # Hi, I am *willing to collaborate as a team player building better code.*
 
 | My favorite tools |![email-icon][] Email me to [alexzambra2610@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
-
-| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | 
+| :---: | :---:
+| ![badge-react][] ![badge-css] |![badge-nodejs][] ![badge-postgres] | 
 <p align="center">
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">

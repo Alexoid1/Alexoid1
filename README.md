@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Alexoid1/Alexoid1)
 
-# Hi, I am *willing to collaborate as a team player building better code.*
+# Hi, I am *willing to collaborate as a teammate building better code.*
 
 |![email-icon][] Email me to [alexzambra2610@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
 

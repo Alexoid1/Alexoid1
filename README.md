@@ -50,7 +50,7 @@
 [badge-postgres]: https://img.shields.io/badge/database-postgreSQL-47A248?style=for-the-badge&logo=postgresql
 [badge-react]: https://img.shields.io/badge/React-16+-61DAFB?style=for-the-badge&logo=react
 [badge-css]: https://img.shields.io/badge/style-CSS-1572B6?style=for-the-badge&logo=css3
-[banner]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
+
 [stats]: https://github.com/Alexoid1/Alexoid1/raw/master/docs/github_stats.png
 [tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/Alexoid1
 

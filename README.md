@@ -1,5 +1,5 @@
 
-<p class="d-none">![](https://komarev.com/ghpvc/?username=Alexoid1&color=grey)</p>
+![](https://komarev.com/ghpvc/?username=Alexoid1&color=grey)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Alexoid1/Alexoid1)
 
 # Hi, I am *willing to collaborate as a teammate building better code.*

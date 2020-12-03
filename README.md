@@ -65,4 +65,4 @@
     <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
 </p>
-<a href="https://profile-summary-for-github.com/user/">Profile Summary Github</a>
+<a href="https://profile-summary-for-github.com/user/Alexoid1">Profile Summary Github</a>

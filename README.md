@@ -54,7 +54,7 @@
 [stats]: https://github.com/Alexoid1/Alexoid1/raw/master/docs/github_stats.png
 [tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/Alexoid1
 
-<p align="center">
+<h3 align="center">
   <a href="https://www.linkedin.com/in/pablo-alexis-zambrano-coral-7a614a189/">
     <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -64,5 +64,5 @@
   <a href="https://www.hackerrank.com/Alexoid1?hr_r=1">
     <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
-</p>
+</h3>
 <a href="https://profile-summary-for-github.com/user/Alexoid1">Profile Summary Github</a>

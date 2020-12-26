@@ -54,15 +54,15 @@
 [stats]: https://github.com/Alexoid1/Alexoid1/raw/master/docs/github_stats.png
 [tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/Alexoid1
 
-<h3 align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/pablo-alexis-zambrano-coral-7a614a189/">
-    <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Ajay's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://codepen.io/alex-zambrano">
-    <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+    <img align="left" alt="Ajay's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
   </a>
   <a href="https://www.hackerrank.com/Alexoid1?hr_r=1">
-    <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+    <img align="left" alt="Ajay's Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
-</h3>
+</p>
 <a href="https://profile-summary-for-github.com/user/Alexoid1">Profile Summary Github</a>

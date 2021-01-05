@@ -29,7 +29,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
-    <img title="Webpack" alt="Webpack" height=40 src="https://img2.freepng.es/20190417/yb/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb79870aa3cb3.6069044115555359846973.jpg">
+    <img title="Webpack" alt="Webpack" height=40 src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>

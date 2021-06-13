@@ -1,7 +1,7 @@
 
 
 # Hi, I am *willing to collaborate as a teammate building better code.*
-|![email-icon][] Email me to [alexzambra2610@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
+![email-icon][] Email me to [alexzambra2610@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
 
 
 

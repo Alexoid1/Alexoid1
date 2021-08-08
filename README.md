@@ -30,8 +30,6 @@
       src="https://user-images.githubusercontent.com/53111464/128640512-996b3897-408b-46d0-a45c-234313adff65.png">
     <img title="Mongo" alt="mongo" height=40
       src="https://img.icons8.com/color/452/mongodb.png">
-    
-    
     <img title="Webpack" alt="Webpack" height=40 src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>

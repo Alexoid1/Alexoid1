@@ -26,7 +26,6 @@
       src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
     <img title="Mongo" alt="mongo" height=40
       src="https://img.icons8.com/color/452/mongodb.png">
-    
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
     <img title="Webpack" alt="Webpack" height=40 src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">

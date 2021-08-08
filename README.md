@@ -33,6 +33,7 @@
     <img title="Webpack" alt="Webpack" height=40 src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img title="Heroku" alt="Heroku" height=40 src="https://static-00.iconduck.com/assets.00/heroku-icon-icon-461x512-ysg7u9o2.png">
+    <img title="Netlify" alt="Netlify" height=40 src="https://avatars.githubusercontent.com/u/7892489?s=280&v=4">
   </span>
 </p>
 

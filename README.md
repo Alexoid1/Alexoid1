@@ -24,6 +24,8 @@
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Electron" alt="Electron" height=40 src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png">
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
+    <img title="Cypress" alt="Cypress" height=40 src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
+    <img title="Puppeteer" alt="Puppeteer" height=40 src="https://avatars.githubusercontent.com/u/6906516?s=200&v=4">
     <img title="MySQL" alt="MySQL" height=40
       src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
     <img title="PostgreSQL" alt="PostgreSQL" height=40
@@ -35,7 +37,7 @@
     <img title="Heroku" alt="Heroku" height=40 src="https://static-00.iconduck.com/assets.00/heroku-icon-icon-461x512-ysg7u9o2.png">
     <img title="Netlify" alt="Netlify" height=40 src="https://avatars.githubusercontent.com/u/7892489?s=280&v=4">
     <img title="Firebase" alt="Firebase" height=40 src="https://img1.freepng.es/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg">
-    <img title="Cypress" alt="Cypress" height=40 src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
+    
   </span>
 </p>
 

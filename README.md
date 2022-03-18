@@ -35,7 +35,7 @@
     <img title="Heroku" alt="Heroku" height=40 src="https://static-00.iconduck.com/assets.00/heroku-icon-icon-461x512-ysg7u9o2.png">
     <img title="Netlify" alt="Netlify" height=40 src="https://avatars.githubusercontent.com/u/7892489?s=280&v=4">
     <img title="Firebase" alt="Firebase" height=40 src="https://img1.freepng.es/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg">
-    <img title="Cypress" alt="Cypress" height=40 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcypress-io&psig=AOvVaw3MZybRT13BVqBzY4Y5UM4t&ust=1647709655533000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCzjPiS0PYCFQAAAAAdAAAAABAD">
+    <img title="Cypress" alt="Cypress" height=40 src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
   </span>
 </p>
 

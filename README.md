@@ -37,6 +37,7 @@
     <img title="Heroku" alt="Heroku" height=40 src="https://static-00.iconduck.com/assets.00/heroku-icon-icon-461x512-ysg7u9o2.png">
     <img title="Netlify" alt="Netlify" height=40 src="https://avatars.githubusercontent.com/u/7892489?s=280&v=4">
     <img title="Firebase" alt="Firebase" height=40 src="https://img1.freepng.es/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg">
+    <img title="aws" alt="AWS" height=40 src="https://avatars.githubusercontent.com/u/2232217?s=280&v=4">
     
   </span>
 </p>

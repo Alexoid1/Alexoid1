@@ -41,7 +41,7 @@
   </span>
 </p>
 
-  [![My github stats](https://github-readme-stats.vercel.app/api?username=Alexoid1&show_icons=true&line_height=17&show_icons=true&theme=vue)](https://github.com/Alexoid1/github-readme-stats)
+  [![My github stats](https://github-readme-stats.vercel.app/api?username=Alexoid1&show_icons=true&line_height=17&theme=dark)](https://github.com/Alexoid1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexoid1&show_icons=true&layout=compact&theme=vue&langs_count=8)](https://github.com/Alexoid1/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexoid1)](https://git.io/streak-stats)
 

@@ -39,7 +39,7 @@
 
   [![My github stats](https://github-readme-stats.vercel.app/api?username=Alexoid1&show_icons=true&line_height=17&theme=vue)](https://github.com/Alexoid1/github-readme-stats)
   <a href="https://github.com/Alexoid/github-stats">
-  <img src="https://github.com/Alexoid/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alexoid-2005&hide_progress=true)
   </a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexoid1&theme=vue)](https://git.io/streak-stats)
 

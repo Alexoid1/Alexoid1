@@ -36,8 +36,9 @@
 </p>
 
  
-  [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alexoid1&layout=pie)](https://github.com/Alexoid1/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alexoid1&layout=pie&langs_count=8)](https://github.com/Alexoid1/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexoid1&theme=vue)](https://git.io/streak-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Alexoid1)](https://github.com/Alexoid1/github-readme-stats-fast)
 
 
 

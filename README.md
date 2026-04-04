@@ -10,8 +10,6 @@
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
       src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
-    <img title="Bootstrap" alt="Bootstrap" height=40
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="Ruby" alt="Ruby" height=40 src="https://blog.mwpreston.net/wp-content/uploads/2018/09/ruby-logo.png">
     <img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
     <img title="JavaScript" alt="JavaScript" height=40
@@ -37,7 +35,7 @@
   </span>
 </p>
 
-  [![My github stats](https://github-readme-stats.vercel.app/api?username=Alexoid1&show_icons=true&line_height=17&theme=vue)](https://github.com/Alexoid1/github-readme-stats)
+ 
   [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alexoid1&layout=pie)](https://github.com/Alexoid1/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexoid1&theme=vue)](https://git.io/streak-stats)
 
